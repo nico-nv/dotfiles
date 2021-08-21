@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nico.nv@gmail.com
+	name = Nicolas Nunez
